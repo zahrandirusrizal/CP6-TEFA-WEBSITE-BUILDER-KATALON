@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi pada landing page terdapat element elemen antarmuka pengguna yang tepat</description>
+   <name>TC_UI_01 - Landing Page UI Checking</name>
+   <tag>UI</tag>
+   <comment></comment>
+   <testCaseGuid>6c2aa53a-6217-4c6f-a825-9498df2e7f3e</testCaseGuid>
+</TestCaseEntity>

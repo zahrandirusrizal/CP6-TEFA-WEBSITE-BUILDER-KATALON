@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WB Logo</name>
+   <tag></tag>
+   <elementGuidId>1789abaa-a3d8-4ce8-8462-3a3c677df7d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation'])[1]/preceding::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-2xl.font-bold.text-black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a6bf12f-1815-4a55-bbd8-f4c5218d0a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold text-black</value>
+      <webElementGuid>fdc37bdf-3ac8-4454-b34f-027d40d23935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WB</value>
+      <webElementGuid>7827a16e-482b-4210-9ef8-2551c26c221d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_20951f&quot;]/main[1]/main[@class=&quot;flex flex-col w-screen max-w-full bg-white&quot;]/nav[@class=&quot;fixed top-0 w-screen max-w-full bg-white transition-all duration-300 opacity-100&quot;]/div[@class=&quot;flex items-center justify-between p-3&quot;]/div[@class=&quot;text-2xl font-bold text-black&quot;]</value>
+      <webElementGuid>ef4b0102-7803-4cd2-9dd6-a9f847a628ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation'])[1]/preceding::div[1]</value>
+      <webElementGuid>334372ee-351b-4139-a95d-4eb0ec312e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/preceding::div[1]</value>
+      <webElementGuid>739d6b79-e68f-4c61-bbba-76843192c374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WB']/parent::*</value>
+      <webElementGuid>39f668d5-8749-4f39-927c-39fa7261b14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>631d2a60-2465-4cbc-94ea-9d482d9d5d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WB' or . = 'WB')]</value>
+      <webElementGuid>93177456-c035-4f65-a471-a1fa797c16ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi ketika user register menggunakan email password, dan confirm password yang benar maka akan tampil register berhasil</description>
+   <name>TC_R_01 - Register Berhasil</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>18240f67-5b2b-4e8f-b59a-b972e7b8f5f9</testCaseGuid>
+</TestCaseEntity>

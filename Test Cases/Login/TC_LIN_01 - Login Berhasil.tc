@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi ketika login menggunakan email dan password yang valid maka akan berhasil masuk ke dalam website</description>
+   <name>TC_LIN_01 - Login Berhasil</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>814e3f65-f40b-4470-aea4-aa0b60a02e1c</testCaseGuid>
+</TestCaseEntity>

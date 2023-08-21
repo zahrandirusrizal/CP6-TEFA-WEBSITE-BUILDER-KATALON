@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi ketika login tidak memasukkan email, namun memasukkan password</description>
+   <name>TC_LIN_04 - User tidak memasukkan email</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>d966c18f-bd5f-4c32-873c-be62d058552f</testCaseGuid>
+</TestCaseEntity>
